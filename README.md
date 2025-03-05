@@ -19,7 +19,7 @@ The image provided below was generated using the following prompt in **PoseAnime
 
 
 **Image:**
-![Generated Anime Girl Jogging]([Anakintano/PoseAnimeFlow-/tree/main/Generation](https://github.com/Anakintano/PoseAnimeFlow-/tree/main/Generation))
+![Generated Anime Girl Jogging](https://raw.githubusercontent.com/Anakintano/PoseAnimeFlow-/main/Generation/runningirl_output.jpg)
 
 This image depicts a young anime girl with long brown hair styled in a high ponytail, jogging gracefully on a sunny park pathway. She wears a light blue sports outfit (shirt and shorts) paired with white sneakers, set against a lush, vibrant green park with soft sunlight filtering through trees and a clear sky. The visual reflects Kyoto Animation’s signature style—clean, sharp outlines, rich colors, and a dynamic, energetic atmosphere—perfectly aligning with the prompt’s specifications. This example illustrates how **PoseAnimeFlow** can generate cohesive, pose-driven anime art, inspired by the pose-control techniques from @kei31’s post.
 
